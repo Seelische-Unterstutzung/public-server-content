@@ -1,0 +1,2159 @@
+# Version 15.0 - Build 168 - 13. Dezember 2023
+- 4 Bots entfernt
+  - 24/7
+  - Color-Chan
+  - Lofi Radio
+  - MonitoRSS
+- 2 Kategorien entfernt
+  - Gaming
+  - Technik
+- 1 Forum erstellt
+  - Technik
+- 7 Foren entfernt
+  - schule
+  - genius-bar
+  - resources
+  - hardware
+  - software
+  - challenges
+  - news
+- 20 Textkanäle entfernt
+  - 69er
+  - kreativität
+  - medien
+  - musik
+  - sport
+  - tech-chat-1
+  - tech-chat-2
+  - rant-fest
+  - mobile
+  - linux
+  - macos
+  - windows
+  - fortnite-news
+  - minecraft-news
+  - rocket-league-news
+  - rückwärts-wählen
+  - negatives-zählen
+  - roleplay
+  - satzgeschichten
+  - wortgeschichten
+- 4 Sprachkanäle entfernt _(Technik Support, Mobil (16kbps), Lofi Relax Radio, Q-Dance-Radio)_
+# Version 14.12.2 - Build 167 - 3. November 2023
+- 1 Rolle hinzugefügt
+  - Organisation
+# Version 14.12.1 - Build 166 - 30. Oktober 2023
+- 1 Textkanal hinzugefügt
+  - bot-help
+# Version 14.12 - Build 165 - 20. Oktober 2023
+- 3 Bots hinzugefügt
+  - SU-Bot Local DEV
+  - SU-Bot Server DEV
+  - Seelische Unterstützung Musik
+- 9 Bots entfernt
+  - Captcha.bot
+  - Koya
+  - PixxieBot
+  - AniGame
+  - Jockie Music
+  - LunaBot
+  - Miki
+  - Musico
+  - YAGPDB.xyz
+- 2 Textkanäle hinzugefügt
+  - musik-bot
+  - zahl-erraten
+- 2 Textkanäle gelöscht
+  - zahl-erraten-pixxie
+  - zahl-erraten-weemo
+# Version 14.11 - Build 164 - 16. Oktober 2023
+- 9 Rollen gelöscht
+  - Bannen
+  - Events
+  - Verifizierungen
+  - VERIFIZIERT/Bild
+  - VERIFIZIERT/Face to Face
+  - VERIFIZIERT/Video
+  - VERIFIZIERT/Gaming-Acc
+  - VERIFIZIERT/Sozial-Acc
+  - VERIFIZIERT/Shopping-Acc
+- 1 Rolle umbenannt
+  - `VERIFIZIERT/Audio` zu `VERIFIZIERT`
+- 2 Foren erstellt
+  - themen
+  - ressourcen-skills
+- 1 Textkanal erstellt
+  - diagnostizierte-probleme
+- 1 Textkanal umbenannt
+  - `schöne-momente` zu `tagebuch`
+- 2 Textkanäle gelöscht
+  - meine-skills
+  - ziele
+- Permissionsänderungen
+- Fehlerbehebungen
+# Version 14.10.1 - Build 163 - 7. Oktober 2023
+- 10 Bots entfernt
+  - Dyno
+  - D. C. Servers
+  - Cat Bot
+  - Spacify
+  - .fmbot
+  - Grow a Tree
+  - IDLE FARM
+  - CryptoBot
+  - Hydra
+  - Invite Tracker
+- 1 Rolle entfernt
+  - everyone-color
+# Version 14.10 - Build 162 - 5. Oktober 2023
+- 25 Rollen entfernt
+  - Granit
+  - "Unsichtbar"
+  - Blueberry
+  - Minze
+  - Saurier-Party
+  - Pistazie
+  - Rankenhieb
+  - Minzbonbon
+  - Lilablassblau
+  - Aquaknarre
+  - Heaven
+  - Schneeflöckchen
+  - Meeresbriere
+  - blue mist
+  - Ultraviolett
+  - Fee
+  - Orchideenblüte
+  - Matschbeere
+  - Sepia
+  - Altrosé
+  - Softrose
+  - Königsrot
+  - Sunset
+  - Butterblume
+  - Creme
+- 19 Rollen umbenannt
+  - `Vantablack` zu `Schwarz`
+  - `Wolfsgrau` zu `Grau`
+  - `Schokolade` zu `Braun`
+  - `Waldlichtung` zu `Dunkelgrün`
+  - `Grashüpfer` zu `Hellgrün`
+  - `Mitternachtblau` zu `Dunkelblau`
+  - `Skyline` zu `Hellblau`
+  - `Neon Blue` zu `Türkis`
+  - `Purple Rain` zu `Lila`
+  - `Flieder` zu `Violett`
+  - `Pastelweeb` zu `Rosa`
+  - `Drachenfrucht` zu `Pink`
+  - `Flammenwurf` zu `Hellrot`
+  - `Kaminrot` zu `Dunkelrot`
+  - `Herzblatt` zu `Magenta`
+  - `Mandarine` zu `Orange`
+  - `Sonnenschein` zu `Gelb`
+  - `Goldnugget` zu `Gold`
+  - `Weißer Schnee` zu `Weiß`
+- 1 Textkanal erstellt
+  - farbauswahl
+- Fehlerbehebungen
+# Version 14.9.1 - Build 161 - 29. September 2023
+- 1 Forum erstellt
+  - einsendungen
+- 1 Textkanal entfernt
+  - einsendungen
+# Version 14.9 - Build 160 - 28. September 2023
+- 5 Rollen erstellt
+  - Community
+  - Gaming
+  - Seelsorge
+  - Spielereien
+  - Technik
+- 1 Forum erstellt
+  - Schule
+# Version 14.8 - Build 159 - 27. September 2023
+- 5 Foren erstellt
+  - resources
+  - hardware
+  - software
+  - challenges
+  - news
+- 2 Textkanäle erstellt
+- tech-chat-1
+- tech-chat-2
+- 2 Textkanäle umbenannt
+  - `android` zu `mobile`
+  - `apple` zu `macos`
+- 9 Textkanäle entfernt
+  - resources
+  - hardware
+  - software
+  - apple-challenges
+  - apple-news
+  - android-challenges
+  - android-news
+  - linux-challenges
+  - linux-news
+# Version 14.7 - Build 158 - 25. September 2023
+- 2 Bots hinzugefügt
+  - Confessions
+  - Miki
+- 1 Textkanal hinzugefügt
+  - anonyme-hilfe
+# Version 14.6.1 - Build 157 - 24. September 2023
+- 5 Bots hinzugefügt
+  - AniGame
+  - CryptoBot
+  - IDLE FARM
+  - SOFI
+  - Tatsu
+# Version 14.6 - Build 156 - 23. September 2023
+- 3 Bots hinzugefügt
+  - Lofi Radio
+  - MonitoRSS
+  - PixxieBot
+- 10 Rollen erstellt
+  - Brandenburg
+  - Hamburg
+  - Mecklenburg-Vorpommern
+  - Rheinland-Pfalz
+  - Sachsen-Anhalt
+  - Schleswig-Holstein
+  - Thüringen
+  - International
+  - Frage der Woche
+  - Vorschläge
+- 11 Rollen umbenannt
+  - `BR-Gebiet` zu `Bayern`
+  - `SWR-Gebiet`  zu `Baden-Württemberg`
+  - `radiobremen-Gebiet` zu `Bremen`
+  - `rbb-Gebiet` zu `Berlin`
+  - `hr-Gebiet` zu `Hessen`
+  - `NDR-Gebiet` zu `Niedersachsen`
+  - `WDR-Gebiet` zu `Nordrhein-Westfalen`
+  - `SR-Gebiet` zu `Saarland`
+  - `SRF-Gebiet` zu `Schweiz`
+  - `mdr-Gebiet` zu `Sachsen`
+  - `ORF-Gebiet`zu `Österreich`
+- 2 Kategorien erstellt
+  - Gaming
+  - Spielereien
+- 1 Forum erstellt
+  - Gaming
+- 2 Textkanäle zurückgeholt
+  - negatives-zählen
+  - rückwärts-zählen
+- 8 Textkanäle erstellt
+  - meine-skills
+  - zahl-erraten-pixxie
+  - zahl-erraten-weemo
+  - satzgeschichten
+  - wortgeschichten
+  - fortnite-news
+  - minecraft-news
+  - rocket-league-news
+- 1 Sprachkanal erstellt
+  - Lofi Relax Radio
+- Emojis hinzugefügt
+- Fehlerbehebungen
+# Version 14.5 - Build 155 - 22. September 2023
+- Errungenschaften-Modul beim MEE6-Bot aktiviert </achievements:1154706183572181013>
+- 1 neuer Beitrag im Guide erstellt
+  - Erfolge/Achievements
+- 6 neue Textkanäle erstellt
+  - erfolge-ping
+  - android-challenges
+  - android-news
+  - apple-news
+  - linux-news
+  - windows-news
+- 3 Textkanäle umbenannt
+  - `mobile` zu `android`
+  - `macos` zu `apple`
+  - `macos-challenges` zu `apple-challenges`
+- 1 Sprachkanal umbenannt
+  - `Support` zu `Technik Support`
+- Fehlerbehebungen
+# Version 14.4 - Build 154 - 19. September 2023
+- Twitch-Verknüpfung aktiviert _(Kanal: https://twitch.tv/derbetakevin)_
+- 4 Bots hinzugefügt
+  - Blerp
+  - Grow a Tree
+  - Wamellow
+  - Waya
+- 7 Rollen hinzugefügt
+  - VERIFIZIERT/Gaming-Acc
+  - VERIFIZIERT/Social-Acc
+  - VERIFIZIERT/Shopping-Acc
+  - Twitch Abonnent (dbk)
+  - #TeamBetaKevin Plus
+  - #TeamBetaKevin Premium
+  - #TeamBetaKevin Ultimate
+- 1 Textkanal hinzugefügt
+  - postings
+- Emojis hinzugefügt
+- Fehlerbehebungen
+# Version 14.3.1 - Build 153 - 18. September 2023
+- 2 Bots hinzugefügt
+  - Spacify
+  - .fmbot
+# Version 14.3 - Build 152 - 16. September 2023
+- 3 Bots hinzugefügt
+  - Koya
+  - LunaBot
+  - Musico
+- 1 Forum hinzugefügt
+  - fdw-qotw
+- 1 Kanal hinzugefügt
+  - serverklauseln
+- 1 Kanal archiviert
+  - hausordnung
+- Berechtigungen geändert
+- Fehlerbehebungen
+# Version 14.2.1 - Build 151 - 10. September 2023
+- 1 Textkanal gelöscht
+  - community
+# Version 14.2 - Build 150 - 4. September 2023
+- 1 Rolle hinzugefügt
+  - Trigger
+- 1 Textkanal hinzugefügt
+  - trigger
+# Version 14.1.3 - Build 149 - 15. August 2023
+- 1 Sprachkanal hinzugefügt
+  - Gaming
+# Version 14.1.2 - Build 148 - 13. August 2023
+- 3 Rollen umbenannt
+  - `Events` zu `Events/Wettbewerbe`
+  - `toter Chat` zu `stiller Chat`
+  - `toter Voice` zu `stiller Voice`
+- 3 Rollen gelöscht
+  - Trigger
+  - SU-Botentwicklungsunterstützung
+  - Server-Partnerschaft
+- 1 Textkanal zurückgeholt
+  - problem-chat
+- Fehlerbehebungen
+# Version 14.1.1 - Build 147 - 10. August 2023
+- 1 Forum bearbeitet
+  - genius-bar
+- 1 Textkanal umbenannt
+  - `regeln-wettbewerbe` zu `regeln`
+# Version 14.1 - Build 146 - 9. August 2023
+- 4 Bots hinzugefügt
+  - 24/7
+  - Cat Bot
+  - Mudae
+  - Myuu
+- 1 Forum erstellt
+  - genius-bar
+- 1 Textkanal erstellt
+  - resources
+- 1 Sprachkanal erstellt
+  - Q-Dance Radio
+# Version 14.0 - Build 145 - 8. August 2023
+- 3 Rollen hinzugefügt
+  - Bannen
+  - Verifizierungen
+  - Events
+- 11 Rollen umbenannt
+  - `Bayern` zu `BR-Gebiet`
+  - `Baden-Württemberg` zu `SWR-Gebiet`
+  - `Bremen` zu `radiobremen-Gebiet`
+  - `Berlin` zu `rbb-Gebiet`
+  - `Hessen` zu `hr-Gebiet`
+  - `Niedersachsen` zu `NDR-Gebiet`
+  - `Nordrhein-Westfalen` zu `WDR-Gebiet`
+  - `Saarland` zu `SR-Gebiet`
+  - `Schweiz` zu `SRF-Gebiet`
+  - `Sachsen` zu `mdr-Gebiet`
+  - `Österreich` zu `ORF-Gebiet`
+- 11 Rollen gelöscht
+  - Owner
+  - Admin
+  - Mod
+  - Sup
+  - Brandenburg
+  - Hamburg
+  - Mecklenburg-Vorpommern
+  - Rheinland-Pfalz
+  - Sachsen-Anhalt
+  - Schleswig-Holstein
+  - Thüringen
+- 3 Kategorien hinzugefügt
+  - Wettbewerbe
+  - Community
+  - Technik
+- 1 Kategorie umbenannt
+  - `Seelische Unterstützung` zu `Seelsorge`
+- 2 Foren erstellt
+  - verify-probleme
+  - allgemeine-forenposts
+- 1 Forum gelöscht
+  - themen-aller-art
+- 24 Textkanäle erstellt
+  - zitate
+  - schöne-momente
+  - ziele
+  - verify-probleme
+  - regeln-infos
+  - einsendungen
+  - gewinner
+  - roleplay
+  - musik
+  - kreativität
+  - medien
+  - gaming
+  - sport
+  - 69er
+  - rant-fest
+  - windows
+  - linux
+  - macos
+  - mobile
+  - hardware
+  - software
+  - windows-challenges
+  - linux-challenges
+  - macos-challenges
+- 9 Textkanäle gelöscht
+  - trigger-hilfe
+  - mir-gehts-nicht-gut
+  - ich-habe-angst
+  - ich-hab-was-falsch-gemacht
+  - herzensangelegenheiten
+  - ich-fühl-mich-einsam
+  - problem-chat-1
+  - problem-chat-2
+  - problem-chat-3
+# Version 13.1 LTS (Long-Term-Support) - Build 144 - 29. März 2023
+- 3 Bots entfernt
+  - AniGame
+  - Mudae
+  - Myuu
+- 1 Kategorie umbenannt
+  - `Serververwaltung` zu `Verwaltung`
+- 1 Kategorie entfernt
+  - Communityverwaltung
+- 2 Textkanäle entfernt
+  - Lawliet-Leveling
+  - Bot-Infos
+- Thread-Funktion deaktiviert (bzw. Berechtigungen den Usern entzogen)
+- Fehlerbehebungen
+# Version 13.0 LTS (Long-Term-Support) - Build 143 - 20. März 2023
+- 9 Bots entfernt
+  - 24/7
+  - Arcane
+  - Avaire
+  - Cookie Clicker
+  - Discord.Me
+  - EpicFreeGames
+  - Points
+  - Snowsgiving Bot
+  - Voice Activities (p)
+- 2 Kategorien entfernt
+  - Bereiche
+  - Partner & Werbung
+- 2 Foren entfernt
+  - Gaming
+  - Spielereien
+- 1 Textkanal hinzugefügt
+  - community
+- 6 Textkanäle entfernt
+  - negatives-zählen
+  - rückwärts-zählen
+  - voraussetzungen
+  - partner-server
+  - partner-chat
+  - trigger-chat
+- 1 Sprachkanäle entfernt
+  - Bremen Eins
+# Version 12.2 - Build 142 - 14. Februar 2023
+- 1 Bot entfernt
+  - BetterGlobal 
+- 1 Rolle hinzugefügt
+  - CyberFamily König/in
+- 4 Rollen entfernt
+  - ZUSÄTZLICHE BEREICHE
+  - Spielereien
+  - Werbung
+  - Gaming 
+- 2 Textkanäle erstellt
+  - problem-chat-2
+  - problem-chat-3
+- 1 Textkanal umbenannt
+  - `problem-chat` zu `problem-chat-1`
+- 5 Textkanäle archiviert
+  - satzgeschichten
+  - wortgeschichten
+  - guide-hp
+  - global-chat
+  - hangman
+# Version 12.1 - Build 141 - 23. Dezember 2022
+- 1 Rolle umbenannt
+  - `macOS PC` zu `macOS Mac`
+- 2 neue Foren
+  - guide
+  - spielereien
+- 1 Textkanal umbenannt
+  - `guide` zu `guide-hp`
+- 2 Textkanäle deaktiviert
+  - satzgeschichten
+  - wortgeschichten
+- 5 Voicekanäle entfernt
+  - Platzhalter bezüglich Serverstatistiken und Serverinvitelink
+- Fehlerkorrekturen
+# Version 12.0 - Build 140 - 6. Dezember 2022
+- **Aktivierung der Discord-Funktion "Einführung"**
+- Berechtigungen so geändert, das (at)-everyone alle Channel sehen kann
+- 1 Bot hinzugefügt
+  - Snowsgiving Bot
+- 1 Bot entfernt
+  - Mushroom.gg
+- 1 Rolle archiviert
+  - Hausordnung akzeptiert
+- 1 Rolle gelöscht
+  - Mushroom.gg
+- 2 Channel gelöscht
+  - rollensetzung
+  - mushroom-gg
+# Version 11.10 - Build 139 - 12. November 2022
+- 1 Bot hinzugefügt
+  - Tickets
+# Version 11.9 - Build 138 - 21. September 2022
+- 1 Bot hinzugefügt
+  - SoundCloud
+- 2 Bots entfernt
+  - Lofi Radio
+  - Vote Tracker
+- 3 Sprachkanäle umbenannt
+  - `Mobiler VC (16kbps)` zu `Mobil (16kbps)`
+  - `Bremen Eins Talk` zu `Bremen Eins`
+  - `Eigenen VC erstellen` zu `Eigener Voice`
+- 7 Sprachkanäle gelöscht
+  - Lofi Radio Lounge
+  - AFK: Alle Fische Kassieren
+  - 2er VC¹
+  - 2er VC²
+  - 2er VC³
+  - 3er VC¹
+  - 3er VC²
+# Version 11.8 - Build 137 - 17. September 2022
+- 1 Rolle entfernt
+  - Seelsorger/in
+- 1 neues Forum
+  - themen-aller-art
+- 1 Sprachkanal umbenannt
+  - `4er VC¹` zu `2er VC³`
+- 1 Sprachkanal entfernt
+  - 4er VC²
+# Version 11.7 - Build 136 - 11. September 2022
+- 2 Bots hinzugefügt
+  - Cookie Clicker
+  - Lofi Radio
+- 1 Stagekanal hinzugefügt
+  - Lofi Radio Lounge
+- 6 Sprachkanäle hinzugefügt
+  - 2er VC¹
+  - 2er VC²
+  - 3er VC¹
+  - 3er VC²
+  - 4er VC¹
+  - 4er VC²
+# Version 11.6 - Build 135 - 8. September 2022
+- 1 Textkanal erstellt
+  - trigger-hilfe
+# Version 11.5 - Build 134 - 2. September 2022
+- 1 Forum erstellt
+  - gaming
+- 1 Textkanal archiviert
+  - gaming
+# Version 11.4 - Build 133 - 26. August 2022
+- 1 Textkanal erstellt
+  - hangman
+# Version 11.3 - Build 132 - 23. August 2022
+- 1 Rolle entfernt
+  - Im Voice
+- 1 Kategorie gelöscht
+  - Events
+- 2 Textkänale entfernt
+  - musik-bots
+  - event-chat
+- 1 Sprachkanal umbenannt
+  - `1LIVE Talk` zu `Bremen Eins Talk`
+- 1 Sprachkanal gelöscht
+  - Seelsorge VC
+# Version 11.2 - Build 131 - 20. August 2022
+- 4 Rollen hinzugefügt
+  - "Unsichtbar"
+  - Er/he/him
+  - Sie/she/her
+  - Es/they/them
+# Version 11.1 - Build 130 - 18. August 2022
+- 1 Textkanal erstellt
+  - serverinfos
+# Version 11.0 - Build 129 - 14. August 2022
+- Serverbanner erstmals aktiviert durch Level 2 Serverboost
+- Rollenicons definiert
+- 1 Rolle umbenannt
+  - `Nerd Talk` zu `Soft- und Hardware Talk`
+- 2 Foren erstellt
+  - vorschläge
+  - problem-forum
+- 1 Textkanal archiviert
+  - vorschläge
+- 1 Textkanal umbenannt
+  - `nerd-talk` zu `soft-und-hardware`
+# Version 10.10 - Build 128 - 12. August 2022
+- 23 Bots entfernt
+  - Yui
+  - SU-Bot Local DEV
+  - SU-Bot Server DEV
+  - SU-Modmail
+  - DISBOARD  TEMPORARY
+  - DBee.​com
+  - dsc.​gg
+  - INVITE.GG
+  - DS.ME
+  - PixxieBot
+  - DiscordServers
+  - REYFM
+  - Crafty
+  - gambling bot
+  - Octave
+  - RadioGermany
+  - Okay Google
+  - Rythm
+  - Rythm 2
+  - Rythm Canary
+  - RickBot
+  - Ticket Tool
+  - EasyFortniteStats
+- 1 Textkanal umbenannt
+  - `globaler-chat` zu `global-chat`
+- 1 Sprachkanal entfernt
+  - REYFM Talk
+- Ticketsystem wird zukünftig vom Lawliet-Bot verwaltet
+- Fehlerbehebungen
+# Version 10.9 - Build 127 - 8. August 2022
+- 1 Bot entfernt
+  - BoobBot
+- 1 Rolle hinzugefügt
+  - Pastelweeb
+  - Saurier-Party
+- 2 Rollen entfernt
+  - Server Mute
+  - Volljährigkeit bestätigt
+- 3 Textkanäle gelöscht
+  - nsfw
+  - nicht-jugendfreie-unterstützung
+  - mute
+- Serverentdeckung aktiviert 
+# Version 10.8 - Build 126 - 12. Juli 2022
+- 1 Bot entfernt
+  - ABC Counting
+- 2 Textkanäle archiviert
+  - zahl-erraten
+  - buchstabieren
+# Version 10.7 - Build 125 - 11. Juli 2022
+- 1 Rolle erstellt
+  - Nerd-Talk
+- 1 Textkanal erstellt
+  - nerd-talk
+# Version 10.6 - Build 124 - 22. Juni 2022
+- 1 Textkanal archiviert
+  - nsfw-bots
+# Version 10.5 - Build 123 - 7. Juni 2022
+- 1 Rolle erstellt
+  - Gaming
+- 1 Textkanal erstellt
+  - gaming
+- Sprachkanäle haben nun eigene Textkanäle (neue Discord-Funktion)
+- 1 Textkanal archiviert
+  - vc-chat
+# Version 10.4 - Build 122 - 7. Mai 2022
+- 1 Bot hinzugefügt
+  - bump reminder
+- 31 Bots entfernt
+  - Ayana
+  - Bcoins
+  - Blerp
+  - BoxBox
+  - Chino
+  - CoinMaster
+  - Cookie
+  - Der Beta Buttler
+  - Discraft
+  - DuckHunt
+  - Gamble Bot
+  - GamesROB
+  - German Jokes
+  - ghosty
+  - IdleCapitalist
+  - MathBot
+  - Nadeko
+  - NuggetBot
+  - OwO
+  - piggy
+  - ProBot
+  - Ruby
+  - Senpai
+  - ServerStats
+  - TacoShack
+  - Tempy
+  - TomatenKuchen
+  - uwubot
+  - Wummy
+  - Xino
+  - ZeroTwo
+# Version 10.3.2 - Build 121 - 5. April 2022
+- Die Berechtigungen des Textkanals `vorschläge` wurden so geändert, das Vorschläge nun vom Nutzer selbst direkt in den Kanal gepostet werden können. Es ist nicht mehr Notwendig, den Bot zu benutzen, aber weiterhin möglich.
+# Version 10.3.1 - Build 120 - 1. April 2022
+- Deaktivierung des Captchas zum Serverbetreten
+  - sollte es wieder gebraucht werden, wirds wieder aktiviert
+# Version 10.3 - Build 119 - 20. März 2022
+- 1 Bot entfernt
+  - ServerMate
+- 4 Textkanäle entfernt
+  - unterstützung-für-jeden
+  - bump
+  - anti-langeweile
+  - tipps
+  - serverinfo 
+# Version 10.2 - Build 118 - 2. Dezember 2021
+- 1 Textkanal umbenannt
+  - `bots-1` zu `bots`
+- 1 Textkanal archiviert
+  - bots-2
+# Version 10.1.1 - Build 117 - 13. November 2021
+ - Die Rolle `Hausordnung akzeptiert` kann nun ihren Nicknamen ändern.
+# Version 10.1 - Build 116 - 12. November 2021
+- Neues Discord-Feature aktiviert
+  - Boostziel Anzeige
+- 1 neuer Statistik-Sprachkanal
+  - Build
+- `Build` aus dem Statistik-Sprachkanal `Version` ausgelagert
+# Version 10.0 - Build 115 - 8. November 2021
+- **Neue Homepage veröffentlich (www.seelische-unterstuetzung.de)**
+- Profilbilder des Server und der eigenen Bots Weihnachtlich geschmückt
+- 14 Bots entfernt
+  - Aki
+  - ChannelBot
+  - Erisly
+  - FBot
+  - GameStats
+  - Guess The Number
+  - Miki
+  - Mining Simulator
+  - Nekotina
+  - PluralKit
+  - Rocket Planet
+  - SHHHHHHH!
+  - UnoBot
+  - Yu-Gi-Oh Collector
+- 4 Textkanäle archiviert
+  - hausordnung-mute
+  - servernetzwerk
+  - voraussetzungen
+  - bewerbungsformular
+- Textkanal "Guide" aktualisiert
+# Version 9.4.2 - Build 114 - 3. November 2021
+- 5 Rollen umbenannt
+  - `Inhaber` zu `Owner`
+  - `Leitung` zu `Admin`
+  - `Geselle` zu `Mod`
+  - `Azubi` zu `Sup`
+  - `Helfer/in` zu `Seelsorger/in`
+- Platzhalterrollen geändert
+# Version 9.4.1 - Build 113 - 1. November 2021
+- 4 Bots hinzugefügt
+  - GameStats
+  - piggy
+  - TomatenKuchen
+  - Yu-Gi-Oh Collector
+- 1 Kategorie entfernt
+  - Eigene VCs 
+# Version 9.4 - Build 112 - 26. Oktober 2021
+- 1 Rolle erstellt
+  - Events
+- 1 Kategorie erstellt
+  - Events
+- 1 Textkanal erstellt
+  - event-chat
+- 1 Stagekanal erstellt
+  - Event
+# Version 9.3 - Build 111 - 25. Oktober 2021
+- 2 Rollen hinzugefügt
+  - Helfer/in
+  - Trigger
+- 2 Textkanäle hinzugefügt
+  - problem-chat
+  - trigger-chat
+# Version 9.2 - Build 110 - 17. Oktober 2021
+- **Neue User müssen nun ein Captcha bestätigen**
+- 2 Bots hinzugefügt
+  - SU-Modmail
+  - Server Captcha Bot
+- 1 Textkanal hinzugefügt
+  - captcha-verify
+- Hausordnung-Textkanäle wurden getauscht
+  - Ein "normaler" und einer für gemutete User. Die Reaktion für "Hausordnung bestätigen" wanderte in den "normalen" Kanal
+# Version 9.1 - Build 109 - 13. Oktober 2021
+- 4 Bots hinzugefügt
+  - Hydra
+  - Soul Music
+  - IdleCapitalist
+  - ServerMate
+- 3 Textkanäle erstellt
+  - tipps
+  - anti-langeweile
+  - bump
+# Version 9.0 - Build 108 - 8. Oktober 2021
+- 4 Bots hinzugefügt
+  - Seelische Unterstützung Bot
+  - SCNX
+  - BetterGlobal
+  - dsc.gg
+- 1 Kategorie hinzugefügt
+  - Partner & Werbung
+- 5 Textkanäle erstellt
+  - serverinfo
+  - geburtstage
+  - globaler-chat
+  - voraussetzungen
+  - partner-liste
+- 1 Textkanäle umbenannt
+  - `partner` zu `partner-server`
+# Version 8.6 - Build 107 - 6. Oktober 2021
+- 1 Rolle erstellt
+  - CyberFamily Bewohner/in
+- 1 Sprachchannel erstellt
+  - Seelsorge VC
+# Version 8.5 - Build 106 - 29. August 2021
+- 2 Rollen erstellt
+  - Serverleitung
+  - Teamler
+- Aus den Teamrollen das Wort `Unterstützer/in` entfernt
+- Berechtigungsänderungen
+# Version 8.4.2 - Build 105 - 28. August 2021
+- 2 Rollen hinzugefügt
+  - Wolfsgrau
+  - Matschbeere
+# Version 8.4.1 - Build 104 - 11.August.2021
+- 1 Rolle hinzugefügt
+  - Erweiterte Bot-Permissions
+- 1 Rolle umbenannt
+  - `Erweiterte Permissions` zu `Erweiterte Team-Permissions`
+# Version 8.4 - Build 103 - 10. August 2021
+- 8 Bots hinzugefügt
+  - Logger
+  - Invite Tracker
+  - Tempy
+  - Streamcord
+  - Blerp
+  - PluralKit
+  - Bcoins
+  - RadioGermany
+- 1 Rolle hinzugefügt
+  - CyberFamily Streamer/in
+- 1 Textkanal umbenannt
+  - `bot-spam-infos` zu `bot-infos`
+# Version 8.3 - Build 102 - 30. Juli 2021
+- 1 Rolle hinzugefügt
+  - Im Voice
+- Im Textkanal `vorstellungen` wurden Vorstellungen von Usern die nicht mehr auf dem Server sind gelöscht
+# Version 8.2 - Build 101 - 25. Juli 2021
+- 6 Bots hinzugefügt
+  - Mushroom.gg
+  - EasyFortniteStats
+  - Voice Activities
+  - ChannelBot
+  - Cookie
+  - FBot
+- 1 Rolle hinzugefügt
+  - Mushroom.gg
+- 1 Textkanal erstellt
+  - mushroom-gg
+# Version 8.1.1 - Build 100 - 21. Juli 2021
+- 1 Rolle hinzugefügt
+  - Lilablassblau
+# Version 8.1 - Build 99 - 4. Juli 2021
+- 1 Bot hinzugefügt
+  - Pixxiebot
+- 1 Textkanal erstellt
+  - zahl-erraten
+# Version 8.0.1 - Build 98 - 21. Juni 2021
+- 1 Bot hinzugefügt
+  - DS.ME
+# Version 8.0 - Build 97 - 12.  April 2021 bis 20. April 2021 (durch Wartungsarbeiten)
+- Jedem User wurde die Rolle 【𝗥𝗲𝗴𝗲𝗹𝗻 𝗮𝗸𝘇𝗲𝗽𝘁𝗶𝗲𝗿𝘁】entfernt
+- 3 Bot hinzugefügt
+  - Der Beta Buttler
+  - Color-Chan
+  - Ticket Tool
+- 1 Bot entfernt
+  - Memexplorer
+- 1 Rolle erstellt
+  - Erweiterte Permissions
+- Farbenrollen geändert
+  - Statt bisher 13 Farbrollen mit Hexcodes, wie z.B. #000001, gibt es nu 39 Farbrollen mit Spezifischen Namen, wie z.B. Vantablack
+- 2 Rollen umbenannt
+  - `【𝗥𝗲𝗴𝗲𝗹𝗻 𝗮𝗸𝘇𝗲𝗽𝘁𝗶𝗲𝗿𝘁】` zu `Hausordnung akzeptiert`
+  - `Zählen/Buchstabieren` zu `Spielereien`
+- 23 Rollen gelöscht
+  - <=====GEFÜHLSLAGE=====>
+  - <=====SPIELEREIEN=====>
+  - Gaming
+  - Formel 1
+  - Selfietime
+  - Diagnostiziert
+  - Satz- und Wortgeschichten
+  - Among Us (+PING)
+  - Gesprächsrunden
+  - Rätsel
+  - Wahrheit oder Pflicht
+  - Zitate
+  - Sport
+  - Sucht
+  - Psychologie
+  - Programmierung
+  - Politik
+  - Musik
+  - Gesundheit
+  - Filme und Serien
+  - Coronavirus
+  - Arbeit und Schule
+  - Anime
+- 2 Kategorien erstellt
+  - Communityverwaltung
+  - Eigene VCs
+- 2 Kategorien umbenannt
+  - `Verifizierungsbereich` zu `Tickets & Verify`
+  - `Voice Bereich` zu `Voice Chats`
+- 5 Kategorien gelöscht
+  - Among Us Bereich
+  - Formel 1 Bereich
+  - Gaming Bereich
+  - Gamer Adden Bereich
+  - Spielereien
+- 3 Textkanäle erstellt
+  - servernetzwerk
+  - ticket-erstellen
+  - unterstützung-für-jeden
+- 4 Textkanäle umbenannt
+  - `servergesetz` zu `hausordnung`
+  - `regeln-akzeptieren` zu `hausordnung-akzeptieren`
+  - `spam-1` zu `spam`
+  - `allgemein-1` zu `allgemein`
+- 49 Textkanäle gelöscht
+  - community-streamt
+  - euro-truck-simulator
+  - fortnite
+  - gta
+  - league-of-legends
+  - minecraft
+  - overwatch
+  - phasmophobia
+  - pubg
+  - rocket-league
+  - splatoon
+  - valorant
+  - blizzard
+  - epic-games
+  - steam
+  - switch-friendcode
+  - playstation-network
+  - xbox-live-gamertag
+  - f1-rennkalender
+  - f1-wm-stand
+  - f1-ergebnisse
+  - f1-news
+  - f1-chat
+  - diagnosen-etc
+  - feedback
+  - team-vorstellung
+  - verify-anfrage
+  - es-gab-einen-streit
+  - among-us-chat
+  - among-us-bot
+  - among-us-codes
+  - among-us-anfrage
+  - spam-2
+  - allgemein-2
+  - fun-chat
+  - ernster-chat
+  - zitate
+  - sport
+  - programmierung
+  - coronavirus
+  - musik
+  - psychologie
+  - filme-und-serien
+  - arbeit-und-schule
+  - rätsel
+  - wahrheit-oder-pflicht
+  - politik
+  - gesundheit
+  - gaming-allgemein
+- 4 Sprachchannel umbenannt
+  - `10er Talk` zu `Offener VC`
+  - `Low Quali Talk` zu `Mobiler VC (16kbps)`
+  - `No Speak` zu `AFK: Alle Fische Kassieren`
+  - `VC erstellen` zu `Eigenen VC erstellen`
+- 31 Sprachchannel gelöscht
+  - Euro Truck Simulator
+  - Fortnite
+  - GTA
+  - League of Legends
+  - Minecraft
+  - Overwatch
+  - Phasmophobia
+  - PUBG
+  - Rocket League
+  - Splatoon
+  - Valorant
+  - Musik Talk 1
+  - Musik Talk 2
+  - Musik Talk 3
+  - Musik Talk 4
+  - Musik Talk 5
+  - NSFW Voice
+  - 2er Talk 1
+  - 2er Talk 2
+  - 2er Talk 3
+  - 3er Talk 1
+  - 3er Talk 2
+  - 3er Talk 3
+  - 4er Talk 1
+  - 4er Talk 2
+  - 4er Talk 3
+  - The Skeld 1
+  - The Skeld 2
+  - Mira HQ
+  - Polus
+  - A-U Low Quali
+- Interne Optimierungsarbeiten
+- Fehlerkorrekturen
+# Version 7.3.3 - Build 96 - 12. März 2021
+- 1 Textkanal erstellt
+  - f1-ergebnisse
+# Version 7.3.2 - Build 95 - 7. März 2021
+- 6 Sprachchannel erstellt
+  - jeweils 2 weitere 2er, 3er und 4er Talks
+# Version 7.3.1 - Build 94 - 28. Februar 2021
+- 4 Sprachchannel erstellt
+  - 2er Talk
+  - 3er Talk
+  - 4er Talk
+  - Gaming Allgemein
+# Version 7.3 - Build 93 - 25. Februar 2021
+- 1 Rolle hinzugefügt
+  - Technik Unterstützer/in
+# Version 7.2 - Build 92 - 23. Februar 2021
+- 7 Bots hinzugefügt
+  - ABC Counting
+  - Boobbot
+  - Carl-Bot
+  - Chino
+  - DuckHunt
+  - MathBot
+  - UnoBot
+- 1 Rolle umbenannt
+  - `Zählen` zu `Zählen/Buchstabieren`
+- 5 Textkanäle erstellt
+  - fun-chat
+  - bots-2
+  - spam-2
+  - buchstabieren
+  - community-streamt
+- 2 Textkanäle umbenannt
+  - `bots` zu `bots-1`
+  - `spam` zu `spam-2`
+- 2 Sprachchannel erstellt
+  - Verifizierter VC
+  - NSFW Voice
+# Version 7.1.2 - Build 91 - 17. Februar 2021
+- 1 Rolle umbenannt
+  - `Inhaber Unterstützer` zu `Inhaber/in Unterstützer/in`
+# Version 7.1.1 - Build 90 - 15. Februar 2021
+- 1 Textkanal erstellt
+  - Plato
+- 1 Sprachchannel erstellt
+  - Plato
+# Version 7.1 - Build 89 - 2. Februar 2021
+- 1 Bot hinzugefügt
+  - Ghosty
+- 2 Kategorien erstellt
+  - Gaming Bereich
+  - Gamer Adden Bereich
+- 17 Textkanäle erstellt
+  - euro-truck-simulator
+  - fortnite
+  - gta
+  - league-of-legends
+  - minecraft
+  - overwatch
+  - phasmophobia
+  - pubg
+  - rocket-league
+  - splatoon
+  - valorant
+  - blizzard
+  - epic-games
+  - steam
+  - switch-friendcode
+  - playstation-network
+  - xbox-live-gamertag
+- 1 Textkanal umbenannt
+  - `gaming` zu `gaming-allgemein`
+- 11 Sprachchannel erstellt
+  - Euro Truck Simulator
+  - Fortnite
+  - GTA
+  - League of Legends
+  - Minecraft
+  - Overwatch
+  - Phasmophobia
+  - PUBG
+  - Rocket League
+  - Splatoon
+  - Valorant
+# Version 7.0 - Build 88 - 21. Januar 2021
+- 2 Rollen hinzugefügt
+  - Mir gehts neutral
+  - Zitate
+- 8 Rollen umbenannt
+  - `Ich hab Depressionen` zu `Mir gehts schlecht`
+  - `MS Windows 10` zu `Microsoft Windows PC`
+  - `macOS 10.x` zu `macOS PC`
+  - `Linux - Ubuntu` zu `Linux PC`
+  - `Android Offiziell (Google Pixel)` zu `Android Smartphone`
+  - `Playstation 4` zu `Playstation Konsole`
+  - `XBOX ONE` zu `XBOX Konsole`
+  - `Nintendo Switch` zu `Nintendo Konsole`
+- 44 Rollen gelöscht
+  - MS Windows 8.1 und früher
+  - macOS 11.x
+  - Linux - Linux Mint
+  - Linux - openSUSE
+  - Linux - Debian
+  - Linux - CentOS
+  - Linux - deepin
+  - Linux - Andere Distribution
+  - Android mit EMUI (Huawei)
+  - Android mit MIUI (Xiaomi)
+  - Android mit OneUI (Samsung) [früher TouchWix]
+  - Android mit OxygenOS (OnePlus)
+  - Anderes Android
+  - Playstation 1
+  - Playstation 2
+  - Playstation 3
+  - Playstation 5
+  - Playstation Portable (PSP)
+  - Playstation Vita
+  - XBOX (Classic)
+  - XBOX 360
+  - XBOX Series X
+  - Nintendo 64
+  - Nintendo DS (jegliche Variante)
+  - Nintendo Gameboy (jegliche Variante)
+  - Nintendo Gamecube
+  - Nintendo Wii
+  - Nintendo WiiU
+  - Nintendo Entertainment System (NES)
+  - NES Classic Mini
+  - Super Nintendo Entertainment System (SNES)
+  - SNES Classic Mini
+  - Netflix Zuschauer/in
+  - Sky Zuschauer/in
+  - Disney+ Zuschauer/in
+  - Amazon Prime Video Zuschauer/in
+  - Joyn Plus Zuschauer/in
+  - Apple TV+ Zuschauer/in
+  - Apple Music Hörer/in
+  - Spotify Hörer/in
+  - Deezer Hörer/in
+  - Amazon Prime Music Hörer/in
+  - YouTube Music Hörer/in
+  - Gesprächsrundenleiter/in
+# Version 6.5.1 - Build 87 - 2. Januar 2021
+- 4 Sprachkanäle umbenannt
+  - `Among Us 1` zu `The Skeld 1`
+  - `Among Us 2` zu `The Skeld 2`
+  - `Among Us 3` zu `Mira HQ`
+  - `Among Us 4` zu `Polus`
+# Version 6.5 - Build 86 - 24. Dezember 2020
+- 1 Rolle hinzugefügt
+  - Formel 1
+- 6 Textkanäle erstellt
+  - nsfw-chat
+  - nsfw-bot-spam
+  - f1-news
+  - f1-wm-stand
+  - f1-rennkalender
+  - f1-chat
+- 1 Textkanal gelöscht
+  - regel-ankündigung
+# Version 6.4.2 - Build 85 - 11. Dezember 2020
+- 1 Fehlerbehebung
+- A-U Low Qualy -> A-U Low Quali
+# Version 6.4.1 - Build 84 - 9. Dezember 2020
+- 1 Rolle entfernt
+  - Dating
+- 1 Textkanal gelöscht
+  - dating
+# Version 6.4 - Build 83 - 8. Dezember 2020
+- 27 Bots hinzugefügt
+  - AniGame
+  - BoxBox
+  - CoinMaster
+  - Crafty
+  - Dank Memer
+  - Discraft
+  - Eli
+  - Erisly
+  - Gamble Bot
+  - gambling bot
+  - GamesROB
+  - MarriageBot
+  - Miki
+  - Mining Simulator
+  - Mudae
+  - Myuu
+  - Nadeko
+  - Nekotina
+  - NuggetBot
+  - OwO
+  - Points
+  - RickBot
+  - Ruby
+  - Senpai
+  - TacoShack
+  - uwubot
+  - Wummy
+# Version 6.3 - Build 82 - 6. Dezember 2020
+- 51 Rollen erstellt
+  - MS Windows 10 (jede Version)
+  - MS Windows 8.1 und früher
+  - macOS 11.x
+  - macOS 10.x
+  - Linux - Ubuntu
+  - Linux - Linux Mint
+  - Linux - openSUSE
+  - Linux - Debian
+  - Linux - CentOS
+  - Linux - deepin
+  - Linux - Andere Distribution
+  - iOS (iPhone)
+  - Android Offiziell (Google Pixel)
+  - Android mit EMUI (Huawei)
+  - Android mit MIUI (Xiaomi)
+  - Android mit OneUI (Samsung) [früher TouchWix]
+  - Android mit OxygenOS (OnePlus)
+  - Anderes Android
+  - Playstation 1
+  - Playstation 2
+  - Playstation 3
+  - Playstation 4
+  - Playstation 5
+  - Playstation Portable (PSP)
+  - Playstation Vita
+  - XBOX (Classic)
+  - XBOX 360
+  - XBOX ONE
+  - XBOX Series X
+  - Nintendo 64
+  - Nintendo DS (jegliche Variante)
+  - Nintendo Gameboy (jegliche Variante)
+  - Nintendo Gamecube
+  - Nintendo Switch
+  - Nintendo Wii
+  - Nintendo WiiU
+  - Nintendo Entertainment System (NES)
+  - NES Classic Mini
+  - Super Nintendo Entertainment System (SNES)
+  - SNES Classic Mini
+  - Netflix Zuschauer/in
+  - Sky Zuschauer/in
+  - Disney+ Zuschauer/in
+  - Amazon Prime Video Zuschauer/in
+  - Joyn Plus Zuschauer/in
+  - Apple TV+ Zuschauer/in
+  - Apple Music Hörer/in
+  - Spotify Hörer/in
+  - Deezer Hörer/in
+  - Amazon Prime Music Hörer/in
+  - YouTube Music Hörer/in
+- 1 Rolle gelöscht
+  - Transsexualität
+- Join- und Leavenachrichten vom MEE6 im `ein-und-ausgang` sowie Lawliet im `für-alle-chat`
+- Serverpartnerschaft mit "Nova Empire" begonnen
+# Version 6.2.4 - Build 81 - 4. Dezember 2020
+- 1 Rolle umbenannt
+  - `Among Us` zu `Among Us (+PING)`
+- 1 Sprachchannel erstellt
+  - Low Quali Talk
+# Version 6.2.3 - Build 80 - 3. Dezember 2020
+- 1 Textkanal hinzugefügt
+  - bot-spam-infos
+# Version 6.2.2 - Build 79 - 1. Dezember 2020
+- 1 Kategorie umbenannt
+  - `Server Stats` zu `Serverstatistiken`
+- 1 Rolle hinzugefügt
+  - toter Voice
+- Voicechannels der Kategorie "`Serverstatistiken`" neu gestaltet
+# Version 6.2.1 - Build 78 - 27. November 2020
+- Serveremojis hinzugefügt
+- Fehlerkorrekturen
+- Serverpartnerschaft mit "jaydoo54 Community" begonnen
+# Version 6.2 - Build 77 - 24. November 2020
+- 6 Bots hinzugefügt
+  - Aki
+  - Arcane
+  - EVE
+  - German Jokes
+  - Okay Google
+  - ProBot
+- 50 Rollen hinzugefügt
+  - Lawliet Rollenlevel 1 bis 50
+- 1 Textkanal hinzugefügt
+  - leveling-lawliet
+# Version 6.1 - Build 76 - 22. November 2020
+- 1 Bot hinzugefügt
+  - Vote Tracker
+- 1 Kategorie hinzugefügt
+  - Among Us Bereich
+- 4 Textkanäle hinzugefügt
+  - among-us-anfrage
+  - among-us-codes
+  - among-us-chat
+  - among-us-bot
+- 5 Sprachchannel hinzugefügt
+  - Among Us 1
+  - Among Us 2
+  - Among Us 3
+  - Among Us 4
+  - Among Us 5 
+# Version 6.0.1 - Build 75 - 21. November 2020
+- 1 Rolle erstellt
+  - CyberFamily Voter/in
+- Es wurden Lawlietbotbefehle deaktiviert
+  - l.softyaoi
+  - l.softyuri
+- Fehlerkorrekturen
+# Version 6.0 - Build 74 - 19. November 2020
+- **Homepage Offiziell veröffentlicht**
+- Jedem User wurde die Rolle【𝗥𝗲𝗴𝗲𝗹𝗻 𝗮𝗸𝘇𝗲𝗽𝘁𝗶𝗲𝗿𝘁】entfernt
+- 6 Bots hinzugefügt
+  - Avalre
+  - Ayana
+  - SHHHHHHH!
+  - Yui
+  - Weemo
+  - Xino
+- Rollenkonfiguration geändert
+  - Alle Rollen haben Farben, Farbenrollen nach oben gepackt
+- 4 Rollen erstellt 
+  - everyone-color
+  - <===ORGANISATORISCHES===>
+  - CyberFamily Reisende/r
+  - <========PING========>
+- 16 Rollen umbenannt
+  - `<=========🄱🄾🅃🅂=========>` zu `<=========BOTS=========>`
+  - `<==========🅃🄴🄰🄼==========>` zu `<==========TEAM==========>`
+  - `<=======🄻🄴🅅🄴🄻🄸🄽🄶=======>` zu `<=======LEVELING=======>`
+  - `<===🄶🄴🄵🅄🄴🄷🄻🅂🄻🄰🄶🄴===>` zu `<=====GEFÜHLSLAGE=====>`
+  - `<========🄸🄽🄵🄾🅂========>` zu `<========INFOS========>`
+  - `<=======🄱🄴🅁🄴🄸🄲🄷🄴=======>` zu `<=======BEREICHE=======>`
+  - `<=====🅂🄿🄸🄴🄻🄴🅁🄴🄸🄴🄽=====>` zu `<=====SPIELEREIEN=====>`
+  - `<======🅂🄾🄽🅂🅃🄸🄶🄴🅂======>` zu `<======SONSTIGES======>`
+  - `Vorgestellt (Vorstellungschannel)` zu `Vorgestellt`
+  - `Vorgestellt (Diagnosen etc.)` zu `Diagnostiziert`
+  - `PING Disboard Bump` zu `Bump`
+  - `PING Gesprächsrunden` zu `Gesprächsrunden`
+  - `PING "Ich brauche Hilfe!"` zu `"Ich brauche Hilfe!"`
+  - `PING Neuigkeiten` zu `Neuigkeiten`
+  - `PING toter Chat` zu `toter Chat`
+  - `PING Umfragen` zu `Umfragen`
+- 1 Rolle gelöscht
+  - Vorgestellt (alter Channel)
+- 3 Textkanäle erstellt
+  - regeln-akzeptiert
+  - regel-ankündigung
+  - homepage-inhalte
+- 1 Textkanal gelöscht
+  - faq
+# Version 5.3.3 - Build 73 - 11. November 2020
+- 1 Bot hinzugefügt
+  - REYFM
+- 1 Sprachchannel erstellt
+  - REYFM Talk
+- 1 Sprachchannel umbenannt
+  - `Radio Talk` zu `1LIVE Talk`
+# Version 5.3.2 - Build 72 - 8. November 2020
+- 3 Rollen entfernt
+  - Idle Miner
+  - Lawliet
+  - Voice
+- 2 Textkanäle entfernt
+  - idle-miner
+  - lawliet-bot
+# Version 5.3.1 - Build 71 - 5. November 2020
+- 1 Rolle erstellt
+  - PING Disboard Bump
+- Im `bot-spam` kommt nun eine Erinnerung fürs Bumpen
+# Version 5.3 - Build 70 - 26. Oktober 2020
+- Der Server wurde zu einem Communityserver eingestellt
+- 3 Rollen erstellt
+  - Werbung
+  - PING toter Chat
+  - PING Umfragen
+- 1 Textchannel erstellt
+  - werbung
+- 3 Textchannel zu Ankündigungschanneln geändern
+  - ankündigungen
+  - changelog
+  - gesprächs-übersicht
+# Version 5.2 - Build 69 - 6. Juli 2020
+- 1 Bereich entfernt
+  - Musik Bereich
+- 1 Rolle erstellt
+  - Rätsel
+- 4 Rollen umbenannt
+  - `Owner Unterstützer` zu `Inhaber Unterstützer`
+  - `Admin Unterstützer/in` zu `Leitung Unterstützer/in`
+  - `Mod Unterstützer/in` zu `Geselle Unterstützer/in`
+  - `Sup Unterstützer/in` zu `Azubi Unterstützer/in`
+- 2 Rollen entfernt 
+  - <=======🄻🄴🄸🅃🅄🄽🄶=======>
+  - Musik
+- 3 Textchannel erstellt 
+  - faq
+  - rätsel
+  - musik-bots
+- Im `allgemeiner-chat` und `vc-chat` wurden Bilder und Link Permissions freigeschaltet
+- 7 Textchannel archiviert 
+  - bild-link-video-ect
+  - vc-bild-link-video-etc
+  - vc-musik-1
+  - vc-musik-2
+  - vc-musik-3
+  - musik-einstellen-1
+  - musik-einstellen-2
+- 5 Sprachkanäle umbenannt
+  - `Musik 1` zu `Musik Talk 1`
+  - `Musik 2` zu `Musik Talk 2`
+  - `Musik Talk 1` zu `Musik Talk 3`
+  - `Musik Talk 2` zu `Musik Talk 4`
+  - `Musik Talk 3` zu `Musik Talk 5`
+# Version 5.1.3 - Build 68 - 29. Juni 2020
+- 1 Bot hinzugefügt
+  - Jockie Music
+- 1 Textchannel erstellt
+  - vc-musik-3
+- 1 Sprachkanal erstellt
+  - Musik Talk 3
+# Version 5.1.2 - Build 67 - 28. Juni 2020
+- Willkommens- und Verabschiedungsnachrichten vom Mee6 im `ein-und-ausgang` geändert
+- Der Lawlietbot zeigt im Channel `für-alle-chat` an, wenn jemand den Server betritt und verlässt
+# Version 5.1.1 - Build 66 - 22. Juni 2020
+- 1 Bot hinzugefügt
+  - Server Monitoring
+# Version 5.1 - Build 65 - 15. Juni 2020
+- 4 Rollen erstellt
+  - Arbeit und Schule
+  - Gesundheit
+  - Sport
+  - PING "Ich brauche Hilfe!"
+- 3 Textkanäle erstellt
+  - arbeit-und-schule
+  - gesundheit
+  - sport
+- 1 Textkanal umbenannt
+  - `liebeskummer` zu `herzensangelegenheiten`
+- 1 Textkanal archiviert
+  - ist-selbstmord-die-lösung
+- Einige Serveremojis wurden entfernt
+# Version 5.0.2 - Build 64 - 14. Juni 2020
+- 1 Bot hinzugefügt
+  - Invite.gg
+- 2 Rollen entfernt
+  - <=======🄷🄸🄻🄵🄴=======>
+  - Unterstützene/r Helfer/in
+# Version 5.0.1 - Build 63 - 13. Juni 2020
+- 1 Bot hinzugefügt
+  - Octave
+- 1 Rolle erstellt
+  - Gesprächsrundenleiter/in
+- 1 Textkanal erstellt
+  - gesprächs-verwaltung 
+# Version 5.0 - Build 62 - 3. Juni 2020 (1 Jahr SU)
+- Neues Servericon
+- 7 Bots hinzugefügt
+  - Seelische Unterstützung
+  - 24/7
+  - Idle Miner
+  - ActivityRank
+  - Dyno
+  - Counting
+  - Groovy
+- 1 Kategorie erstellt
+  - Verifizierungsbereich
+- 2 Kategorien umbenannt
+  - `Verwaltung der Seele` in `Serververwaltung`
+  - `Themenabende` zu `Gesprächsrunden`
+- 5 Rollen erstellt
+  - Programmierung
+  - Im 1. Jahr Mitglied gewesen
+  - Idle Miner
+  - Geburtstagskind
+  - Wahrheit oder Pflicht
+- 4 Rollen umbenannt
+  - `Essen` zu `Essen und Trinken`
+  - `Filme` zu `Filme und Serien`
+  - `Tierwelt` zu `Natur und Tiere`
+  - `Ping Themenabende` zu `Ping Gesprächsrunden`
+- Farbenrollen von ihrem Urspünglichen Namen zu Hexcodes `#xxxxxx` umbenannt
+- 6 Textkanäle erstellt
+  - verify-anfrage
+  - programmierung
+  - idle-miner
+  - es-gab-einen-streit
+  - wahrheit-oder-pflicht
+  - ohne-verzählen
+  - vc-musik-2
+- 4 Textkanäle umbenannt
+  - `filme` zu `filme-und-serien`
+  - `tierwelt` zu `natur-und-tiere`
+  - `vc-musik-einstellen` zu `vc-musik-1`
+  - `essen` zu `essen-und-trinken`
+- Textkanäle mit `themen-...` am Anfang zu `gesprächs-...` umbenannt
+- Den Textkanal `bot-spam` können nun auch Unvorgestellte sehen
+- 2 Sprachkanal erstellt
+  - Verify Voice
+  - Radio Talk
+  - Musik Talk 2
+- 2 Sprachkanäle umbenannt
+  - `Musik Talk` zu `Musik Talk 1`
+  - `Termin Talk` zu `Gesprächs Talk`
+- Der Lawliet-Bot von Bereich zu Spielerei geswitcht
+- Es wurden Lawlietbotbefehle deaktiviert
+  - l.kill
+  - l.punch
+  - l.slap
+  - l.baka
+  - l.steal
+  - l.bully
+  - l.spank
+- Der Faktor `Triggerfaktor` wurde zur Vorstellungsvorlage hinzugefügt
+- Serverpartnerschaft mit "There For You" begonnen
+# Version 4.4.1 - Build 61 - 26. Mai 2020
+- 3 Textkanäle umbenannt
+  - `bilder-links-video-chat` zu `bild-link-video-etc`
+  - `voice-chat-text` zu `vc-chat`
+  - `voice-bilder-links-etc` zu `vc-bild-link-video-etc`
+- Einige Channelemojis wurden geändert
+- Interne Optimierungen
+# Version 4.4 - Build 60 - 18. Mai 2020
+- 1 Kategorie erstellt
+  - Spielereien
+- 6 Rollen erstellt
+  - <=======🄷🄸🄻🄵🄴=======>
+  - Unterstützene/r Helfer/in
+  - <=====🅂🄿🄸🄴🄻🄴🅁🄴🄸🄴🄽=====>
+  - Satz- und Wortgeschichten
+  - Zählen
+  - PING Themenabende
+- 1 Rolle umbenannt
+- `!!!PING!!!` zu `Ping Neuigkeiten`
+- 2 Textchannel erstellt
+  - negatives-zählen
+  - rückwärts-zählen
+- 1 Textchannel umbenannt
+- `zählen` zu `standard-zählen`
+# Version 4.3.3 - Build 59 - 10. Mai 2020
+- Vorstellungen von Usern die nicht mehr auf dem Server sind aus dem `Vorstellungschannel` entfernt
+# Version 4.3.2 - Build 58 - 6. Mai 2020
+- User Cooldowns der Befehle `!rank` und `!levels` von 15 auf 2 Minuten herabgesetzt
+# Version 4.3.1 - Build 57 - 28. April 2020
+- 1 Textkanal erstellt
+  - satzgeschichten
+- 1 Textchannel umbenannt
+  - `neuer-vorstellungschannel` in `vorstellungschannel`
+- 1 Textchannel archiviert
+  - alter-vorstellungschannel
+# Version 4.3 - Build 56 - 15. April 2020
+- 1 Kategorie erstellt
+  - Musik Bereich
+- 3 Rollen erstellt
+  - Psychologie
+  - Schöne Momente
+  - Sucht
+- 3 Textchannel erstellt
+  - psychologie
+  - schöne-momente
+  - sucht
+- Im Voicekanal in dem die Version vermerkt ist wird nun auch die Buildnummer angezeigt 
+# Version 4.2 - Build 55 - 29. März 2020
+- 1 Kategorie erstellt
+  - Themenabende
+- 4 Textchannel erstellt
+  - termin-übersicht
+  - termin-abstimmung
+  - termin-vorschläge
+  - termin-chat
+- 1 Sprachkanal erstellt
+  - Termin Talk 
+# Version 4.1.4 - Build 54 - 28. März 2020
+- 1 Rolle erstellt
+  - Selfietime
+- 1 Textchannel erstellt
+  - selfietime
+# Version 4.1.3 - Build 53 - 24. März 2020
+- 2 Textchannel erstellt
+  - expertenhilfe
+  - vorstellungsvorlage
+- Join- sowie Leavenachricht vom Mee6 Bot im Channel `ein-und-ausgang` geändert
+# Version 4.1.2 - Build 52 - 18. März 2020
+- 1 Rolle erstellt
+  - Politik
+- 1 Textchannel erstellt
+  - politik
+# Version 4.1.1 - Build 51 - 15. März 2020
+- 1 Rolle erstellt
+  - Tierwelt
+- 1 Textchannel erstellt
+  - tierwelt
+- Fehlerkorrekturen
+# Version 4.1 - Build 50 - 14. März 2020
+- 14 Rollen erstellt
+  - Heterosexualität
+  - Homosexualität
+  - Bisexualität
+  - Transsexualität
+  - Andere Sexualität
+  - Single
+  - Vergeben
+  - Es ist kompliziert
+  - Coronavirus
+  - Essen
+  - Kreativität
+  - Lawliet
+  - Vorgestellt (neuer Channel)
+  - Vorgestellt (Diagnosen)
+- 4 Rollen umbenannt
+  - `Vorgestellt` in `Vorgestellt (alter Channel)`
+  - `Anschreiben erlaubt` zu `PN erlaubt`
+  - `Anschreiben auf Nachfrage` zu `PN auf Nachfrage`
+  - `Anschreiben verboten` zu `PN verboten`
+- 6 Textchannel erstellt
+  - neuer-vorstellungschannel
+  - diagnosen-etc
+  - coronavirus
+  - essen
+  - kreativität
+  - lawliet-bot
+- Textchannel `rollen-setzen` durch den Textchannel `rollensetzung` ersetzt
+- 1 Textchannel umbenannt
+  - `vorstellungen` in `alter-vorstellungschannel`
+- 1 Textchannel archiviert
+  - verifizierter-chat
+- Voicechats können nun automatisch über den VC `VC erstellen` erstellt werden.
+- 9 Sprachkanäle gelöscht
+  - 2er, 3er und 4er Talk jeweils mit 32, 64 und 96 KBPS
+- Fehlerkorrekturen
+# Version 4.0.1 - Build 49 - 9. März 2020
+- 17 Rollen entfernt
+  - <🄿🄴🅁🅂🄾🄴🄽🄻🄸🄲🄷🄺🄴🄸🅃>
+  - Architekt - INTJ
+  - Logiker - INTP
+  - Kommandeur - ENTJ
+  - Debattierer - ENTP
+  - Advokat - INFJ
+  - Mediator - INFP
+  - Protagonist - ENFJ
+  - Aktivist - ENFP
+  - Logistiker - ISTJ
+  - Verteidiger - ISFJ
+  - Exekutive - ESTJ
+  - Konsul - ESFJ
+  - Virtuose - ISTP
+  - Abenteurer - ISFP
+  - Unternehmer - ESTP
+  - Entertainer - ESFP
+- 1 Textchannel erstellt
+  - server-feedback
+# Version 4.0 - Build 48 - 7. März 2020
+- Die Channel der Gruppe "Plaudereien" sind nur noch für Vorgestellte User (also User mit der Rolle "Vorgestellt" nutzbar
+- Die Channel der Gruppe "Seelische Unterstützung" sind nur noch für Verifizierte User nutzbar
+- Servergesetz aktualisiert
+- Moderationsstufe von Mittel auf Hoch gestellt. _(Das heißt, man muss nun 10 Minuten auf diesem Server sein um Nachrichten schreiben zu können)_
+- Jedem User wurde die Rolle【𝗥𝗲𝗴𝗲𝗹𝗻 𝗮𝗸𝘇𝗲𝗽𝘁𝗶𝗲𝗿𝘁】entfernt
+- 1 Bot hinzugefügt
+  - Lawliet
+- User werden nach 90 Tagen inaktivität automatisch vom Server gekickt
+- 4 Textchannel erstellt 
+  - nicht-jugendfreie-unterstützung
+  - für-alle-chat
+  - seelischen-bereich-nutzen
+  - plaudereien-bereich-nutzen
+- 6 Textchannel archiviert
+  - ich-habe-ein-geheimnis
+  - mag-er-oder-sie-mich-noch
+  - jemand-ist-verstorben
+  - beichtstuhl
+  - niemand-versteht-mich
+  - ich-bin-wütend
+- Discord Systemnachricht beim joinen und boosten des Servers von `allgemeiner-chat` in `für-alle-chat` verschoben
+- Neue User werden nun vom Mee6 Bot Privat angeschrieben und bekommen dort eine kurze Anleitung, wie man den vollen Umfang des Servers nutzen kann
+- Spezieller Regelbereich abgeschaltet
+- Channelnamen und -beschreibungen verschiedener Channel aktualisiert
+- Channel `vorstellungen` von Vorstellungen entfernter User geleert
+# Version 3.5.1 - Build 47 - 4. März 2020
+- Joinnachricht vom Mee6 Bot im Channel `ein-und-ausgang` geändert
+# Version 3.5 - Build 46 - 2. März 2020
+- **Veröffentlichung der neuen Serverregeln**
+- Jedem User wurde die Rolle【𝗥𝗲𝗴𝗲𝗹𝗻 𝗮𝗸𝘇𝗲𝗽𝘁𝗶𝗲𝗿𝘁】aufgrund der neuen Serverregeln entfernt
+- 6 Textchannel archiviert
+  - verbotene-wörter
+  - öffentliche-strikeliste
+  - teamrollen-erklärung
+  - leveling-info
+  - verifizierungs-info
+  - beliebte-nachrichten
+# Version 3.4 - Build 45 - 29. Februar 2020
+- 1 Bereich entfernt (Dazu gehören die Channel und Rollen.)
+  - NSFW
+- 3 Rollen erstellt
+  - Divers
+  - Österreich
+  - Schweiz
+- 1 Textchannel erstellt
+  - team-vorstellung
+- 1 Textchannel umbenannt
+  - `borderline-störung` zu `ich-habe-mir-weh-getan`
+- 6 Sprachkanäle erstellt
+  - 2er, 3er und 4er Talk nun jeweils mit 32, 64 und 96 KBPS
+# Version 3.3.2 - Build 44 - 28. Februar 2020
+- 2 Rollen entfernt
+  - Co-Owner Unterstützer/in
+  - Guard Unterstützer/in
+- Der Mee6 Bot sendet nun ein Bild mit, wenn jemand den Server joint
+- Cooldowns für die Befehle `!rank` und `!levels` von 30 Minuten auf 15 Minuten gesetzt
+# Version 3.3.1 - Build 43 - 27. Februar 2020
+- Kilobytes pro Sekunde in den Voicechats erhöht
+# Version 3.3 - Build 42 - 25. Februar 2020
+- 5 neue Rollen erstellt
+  - Verifiziert/Audio
+  - Verifiziert/Bild
+  - Verifiziert/Face to Face
+  - Verifiziert/Video
+  - Verifizierung bestätigt
+- 2 neue Textchannel erstellt
+  - verifizierungs-info
+  - verifizierter-chat
+# Version 3.2.1 - Build 41 - 24. Februar 2020
+- 1 Sprachkanal erstellt
+  - AFK
+- Nach 15 Minuten Inaktivität im VoiceChat erfolgt nun ein automatisches Moven in den `AFK` VoiceChat
+# Version 3.2 - Build 40 - 22. Februar 2020
+- 5 Bereiche entfernt (Dazu gehören die Channel und Rollen sowie der Bot Ayana)
+  - Ayana
+  - Englisch
+  - PC-Technik
+  - Serien
+  - Sport
+- 1 Sprachkanal erstellt
+  - 3er Talk
+- Kilobytes pro Sekunde im Sprachkanal `10er Talk` auf 64 und `Musik Talk` auf 96 geändert
+# Version 3.1.2 - Build 39 - 19. Februar 2020
+- 1 neuer Textchannel
+  - liebeskummer
+- Channel `dating` geleert
+- Einige Channelnamen durch Emojis ergänzt
+# Version 3.1.1 - Build 38 - 23. Januar 2020
+- Invite Links können nun ab der Rolle `CyberFamily Besucher/in` erstellt werden
+# Version 3.1 - Build 37 - 21. Januar 2020
+- Discord Systemnachricht beim joinen und boosten des Servers aktiviert. Nachrichten erscheinen im Channel `allgemeiner-chat`
+- Willkommens- und Goodbyenachricht vom Mee6 geändert.
+- Textkanal `vorstellungen` von Vorstellungen entfernter User geleert
+- 1 Textkanal archiviert
+  - `server-streitigkeiten`
+# Version 3.0 - Build 36 - 1. Januar 2020
+- Verbotene Wörter überarbeitet
+- 1 Bot hinzugefügt
+  - Serverstats
+- 4 neue Platzhalter
+  - All Members
+  - Members
+  - Bots
+  - Banned Users 
+# Version 3.0 Beta 3 - Build 35 - 26. Dezember 2019
+- Inaktive User gekickt
+- Textkanal `vorstellungen` von Vorstellungen entfernter User geleert 
+# Version 3.0 Beta 2 - Build 34 - 25. Dezember 2019
+- 4 Voice Channel entfernt
+  - 1er Talk
+  - 3er Talk
+  - 5er Talk
+  - 7er Talk
+- Textkanal `vorstellungen` von Vorstellungen entfernter User geleert 
+# Version 3.0 Beta 1 - Build 33 - 22. Dezember 2019
+- Änderung der Serverregeln
+  - § 5a Abs. 2
+- 1 Textchannel archiviert
+  - narzisstische-persönlichkeitsstörung
+- Textkanal `umfragen` geleert
+# Version 2.1.1 - Build 32 - 8. September 2019
+- 1 neuer Textchannel
+  - ich-habe-angst
+- Textkanal `servervorschläge` geleert
+# Version 2.1 - Build 31 - 20. August 2019
+- 1 Rolle hinzugefügt
+  - Dating
+- 1 neuer Textchannel
+  - dating
+# Version 2.0.3 - Build 30 - 17. August 2019
+- 1 Bot hinzugefügt
+  - DiscordBee.com
+- User die sich im Channel `vorstellung` vorgestellt haben, die Rolle `Vorgestellt` gegeben.
+- Textkanal `vorstellung` von alten Uservorstellungen "befreit" 
+# Version 2.0.2 - Build 29 - 16. August 2019
+- Textkanal `server-streitereien` geleert
+# Version 2.0.1 - Build 28 - 13. August 2019
+- Verbotene Wörter hinzugefügt
+- Textkanal `mute-gefängnis` geleert
+# Version 2.0 - Build 27 - 11. August 2019
+- Ticketsystem eingeführt
+  - "-ticket open [Grund]"
+- 5 Rollen erstellt
+  - Co-Owner Unterstützer/in
+  - Guard Unterstützer/in
+  - English
+  - Spezielle Regeln
+  - Vorgestellt
+- Platzhalter Rollenschema von `===Rolle===` zu `<===Rolle===>` geändert
+- 3 Kategorien erstellt
+  - English
+  - Spezieller Regelbereich
+  - Tickets
+- 8 Textkanäle erstellt
+  - general-en-chat
+  - pictures-links-video-chat
+  - spam-en-chat
+  - other-chat
+  - bot-en-chat
+  - bereich-aktivieren
+  - einfach-mal-dampf-ablassen
+  - lass-die-schimpfwörter-raus
+# Version 1.9.1.1 (2.0rc4) - Build 26 - 10. August 2019
+- 1 Textkanal erstellt
+  - server-streitereien
+# Version 1.9.1 (2.0rc3) - Build 25 - 7. August 2019
+- Änderungen an der Levelrollenverteilung
+  - Rang `#CyberFamily Besucher/in` nun erst ab Level 2
+- 2 Rollen umbenannt
+  - `Server Permissions` in `𝕾𝕰𝕽𝖁𝕰𝕽𝕻𝕰𝕽𝕸𝕴𝕾𝕾𝕴𝕺𝕹𝕾`
+  - `Nitro Booster` in `CyberFamily Booster/in😊`
+- 1 Textkanal erstellt
+  - verbotene-wörter
+- 1 Textkanal archiviert
+  - owner-in-der-klinik
+- Vereinzelt Channelbeschreibungen erstellt
+# Version 1.9.0.1 (2.0rc2) - Build 24 - 1. August 2019
+- Namen der Teammitglieder geändert
+  - Der Name setzt sich nun zusammen aus `[Rang -18 oder 18+] @Nickname`
+# Version 1.9 (2.0rc1) - Build 23 - 19. Juli 2019
+- 26 Rollen erstellt
+  - 13 - 15 Jahre
+  - 16 - 18 Jahre
+  - 19 - 21 Jahre
+  - 22 - 25 Jahre
+  - 26 - 30 Jahre
+  - 31 - 40 Jahre
+  - 41 - 50 Jahre
+  - 51 - 60 Jahre
+  - 60+ Jahre
+  - Baden-Württemberg
+  - Bayern
+  - Berlin
+  - Brandenburg
+  - Bremen
+  - Hamburg
+  - Hessen
+  - Mecklemburg-Vorpommern
+  - Niedersachsen
+  - Nordrhein-Westfalen
+  - Rheinland-Pfalz
+  - Saarland
+  - Sachsen
+  - Sachsen-Anhalt
+  - Schleswig-Holstein
+  - Thüringen
+  - Anschreiben auf Nachfrage
+- 6 Rollen entfernt
+  - bis 6 Jahre
+  - 6 bis 12 Jahre
+  - 12 bis 16 Jahre
+  - 16 bis 18 Jahre
+  - 18 bis 30 Jahre
+  - ab 30 Jahre
+- Neue Serveremojis hinzugefügt
+- Emojis an die Channelnamen gehangen
+# Version 1.8 (2.0b1) - Build 22 - 15. Juli 2019
+- 4 Rollen erstellt
+  - Ayana
+  - Memes
+  - NSFW
+  - Voice
+- 1 Kategorie umbenannt
+  - `Voice Channel` zu `Voice Bereich`
+- 1 Kategorie entfernt
+  - Spielchen
+- 1 Textkanal erstellt
+  - nsfw
+- 1 Textkanal umbenannt
+  - `bilder-und-video-chat` in `bilder-links-video-chat`
+- 2 Textkanäle archiviert
+  - nsfw-for-adult
+  - nsfw-for-all
+- Neue Serveremojis hinzugefügt
+- Vereinzelt Channelbeschreibungen erstellt
+# Version 1.7.1 (2.0a2) - Build 21 - 14. Juli 2019
+- 1 Kategorie umbenannt
+  - `Sonstige Plaudereien` in `Plaudereien`
+- 1 Kategorie entfernt
+  - Rollenchannel
+- 4 Textchannel archiviert
+  - ich-brauche-hilfe
+  - ich-habe-depressionen
+  - ich-helfe-anderen
+  - mir-geht-es-gut
+# Version 1.7 (2.0a1) - Build 20 - 13. Juli 2019
+- Der Server wurde so umfunktioniert, dass sämtliche Bereiche nur noch mit der neuen Rolle 【﻿𝗥𝗲𝗴𝗲𝗹𝗻 𝗮𝗸𝘇𝗲𝗽𝘁𝗶𝗲𝗿𝘁】verfügbar sind.
+- 1 Textkanal erstellt
+  - öffentliche-strikeliste
+- Neue Serveremojis hinzugefügt
+- VoiceChats umbenannt
+  - Es steht nun die KB Anzahl pro Sekunde bei
+- Weitere Serverregeln definiert
+- Vereinzelt Channelbeschreibungen erstellt
+# Version 1.6.4 - Build 19 - 12. Juli 2019
+- 1 Textkanal erstellt
+  - umfragen
+- Vereinzelt Channelbeschreibungen erstellt
+# Version 1.6.3 - Build 18 - 11. Juli 2019
+- 2 neue Bots hinzugefügt
+  - Rythm 2
+  - Rythm Canary
+- 2 Textkanäle erstellt
+  - musik-einstellen-2
+  - talk-musik-einstellen
+- 1 Sprachkanal erstellt
+  - Musik Talk
+- Vereinzelt Channelbeschreibungen erstellt
+# Version 1.6.2 - Build 17 - 10. Juli 2019
+- 1 Kategorie erstellt
+  - Voice Chats
+- 3 Textkanäle erstellt
+  - voice-chat-text
+  - voice-chat-bilder-links-etc
+  - nsfw-for-all
+- 1 Textkanal umbenannt
+  - `nsfw` in `nsfw-for-adult`
+- Voice Chats in 2er, 3er, 4er, 5er, 7er und 10er geändert.
+# Version 1.6.1 - Build 16 - 9. Juli 2019
+- **Neue Regeln in #🚨serverregeln🚨 !!!**
+- `!rank` und `!levels` sind nun nur noch im Channel `bot-spam` möglich
+- 1 Textkanal umbenannt
+  - `leveling` in `leveling-ping`
+- Vereinzelt Channelbeschreibungen definiert bzw. geändert
+- Kanalberechtigungsfehler behoben
+- Interne Optimierungsarbeiten
+# Version 1.6 - Build 15 - 6. Juli 2019
+- 7 Rollen erstellt
+  - =========🄱🄴🅁🄴🄸🄲🄷🄴=========
+  - Anime
+  - Filme
+  - Gaming
+  - PC-Technik
+  - Serien
+  - Sport
+- 8 Textkänale erstellt
+  - teamrollen-erklärung
+  - anime
+  - gaming
+  - serien
+  - filme
+  - sport
+  - pc-technik
+  - musik-chat
+- 1 Kategorie umbenannt
+  - `Musik` in `Bereiche`
+- 1 Textkanal umbenannt
+  - `musik` zu `musik-einstellen`
+- Namen der Teammitglieder geändert
+  - Der Name setzt sich nun zusammen aus `[Rang] @Nickname`
+- Kanalberechtigungsfehler behoben
+# Version 1.5.2 - Build 14 - 5. Juli 2019
+- Die Teamrollen gendergerecht umbenannt
+- Kanalberechtigungen hingehend geändert, dass nun nicht mehr in jedem Kanal jeder Bot vorhanden ist
+# Version 1.5.1 - Build 13 - 4. Juli 2019
+- 2 Kategorien entfernt
+  - Frust abbauen
+  - Seelische Talks
+- 1 Textkanal umbenannt
+  - `ich-bin-so-wütend` in `ich-bin-wütend`
+- 7 Textkanäle archiviert
+  - argh
+  - hilfe-für-angehörige
+  - ich-bin-an-allem-schuld
+  - ich-koche-vor-wut
+  - ich-muss-mich-abreagieren
+  - kurz-vorm-heulen
+  - statement-vom-owner-wegen-sushi
+- 1 Sprachkanal gelöscht
+  - Plaudern
+- 1 neuer Mee6 Commando hinzugefügt
+  - !telegram
+# Version 1.5 - Build 12 - 1. Juli 2019
+- 3 neue Bots hinzugefügt
+  - Auttaja
+  - Ayana
+  - Memexplorer
+- 23 Rollen erstellt
+  - =========🄱🄾🅃🅂=========
+  - =========🅃🄴🄰🄼=========
+  - =========🄻🄴🅅🄴🄻🄸🄽🄶=========
+  - =========🄶🄴🄵🅄🄴🄷🄻🅂🄻🄰🄶🄴=========
+  - ===🄿🄴🅁🅂🄾🄴🄽🄻🄸🄲🄷🄺🄴🄸🅃🅂🅃🅈🄿===
+  - Architekt - INTJ
+  - Logiker - INTP
+  - Kommandeur - ENTJ
+  - Debattierer - ENTP
+  - Advokat - INFJ
+  - Mediator - INFP
+  - Protagonist - ENFJ
+  - Aktivist - ENFP
+  - Logistiker - ISTJ
+  - Verteidiger - ISFJ
+  - Exekutive - ESTJ
+  - Konsul - ESFJ
+  - Virtuose - ISTP
+  - Abenteurer - ISFP
+  - Unternehmer - ESTP
+  - Entertainer - ESFP
+  - =========🄸🄽🄵🄾🅂=========
+  - =========🅂🄾🄽🅂🅃🄸🄶🄴🅂=========
+- 1 Rolle umbenannt
+  - `Mute` zu `Server Mute`
+- 5 neue Textkanäle erstellt
+  - bot-logging
+  - öffentlicher-bot-log
+  - beliebte-nachrichten
+  - ayana
+  - memes
+- Der Channel "servervorschläge" wurde geleert
+# Version 1.4.1.1 - Build 11 - 30. Juni 2019
+- 1 neuer Textkanal erstellt
+  - statement-vom-owner-wegen-sushi
+# Version 1.4.1 - Build 10 - 28. Juni 2019
+- Vereinzelt Channelbeschreibungen erstellt
+# Version 1.4 - Build 9 - 24. Juni 2019
+- 1 neuen Bot hinzugefügt
+  - Discord.Me
+- 4 neue Textkanäle erstellt
+  - ich-helfe-anderen
+  - mir-gehts-gut
+  - ich-habe-depressionen
+  - ich-brauche-hilfe
+- 5 neue Mee6 Commandos eingefügt
+  - !partnerserver
+  - !telefonseelsorge
+  - !statistik
+  - !discordme
+  - !disboard
+- Vereinzelt Channelbeschreibungen erstellt
+# Version 1.3.2 - Build 8 - 23. Juni 2019
+- 1 neuen Textkanal erstellt
+  - kurz-vorm-heulen
+# Version 1.3.1 - Build 7 - 20. Juni 2019
+- 1 Rolle umbenannt
+  - `#CyberFamily Mitglied` zu `#CyberFamily Besucher`
+- 4 Rollen erstellt
+  - #CyberFamily Bekannter
+  - #CyberFamily Freund
+  - #CyberFamily Verwandter
+  - #CyberFamily Mitglied
+- 2 neue Textkanäle erstellt
+  - nsfw
+  - leveling-info
+# Version 1.3 - Build 6 - 19. Juni 2019
+- 13 Rollen erstellt
+  - Rot
+  - Orange
+  - Geld
+  - Hellgrün
+  - Dunkelgrün
+  - Türkis
+  - Hellblau
+  - Dunkelblau
+  - Lila
+  - Pink
+  - Weiß
+  - Grau
+  - Schwarz
+- 1 Rolle umbenannt
+  - `user` zu `#CyberFamily Mitglied`
+- 6 neue Textkanäle erstellt
+  - ich-bin-an-allem-schuld
+  - niemand-versteht-mich
+  - narzisstische-persönlichkeitsstörung
+  - jemand-ist-verstorben
+  - borderline-störung
+  - hilfe-für-angehörige
+# Version 1.2.1 - Build 5 - 18. Juni 2019
+- 1 neuer Textkanal erstellt
+  - zählen
+# Version 1.2 - Build 4 - 17. Juni 2019
+- 2 Rollen erstellt
+  - Anschreiben erlaubt
+  - Anschreiben verboten
+- 2 neue Textkanäle erstellt
+  - versionsgeschichte
+  - ist-selbstmord-die-lösung
+- 3 neue Sprachkanäle hinzugefügt
+  - Allgemeiner Talk
+  - Einfach mal Reden
+  - Plaudern
+- Gruppierung der Gruppen aufgehoben
+  - Ich brauche Hilfe
+  - Ich hab Depressionen
+  - Ich helfe anderen
+  - Mir gehts gut
+# Version 1.1 - Build 3 - 14. Juni 2019
+- 1 Bot hinzugefügt
+  - Rythm
+- Rollen erstellt  
+  - Für Alter
+  - Für Geschlecht
+  - DJ
+  - Ping
+- 3 neue Textkanäle erstellt 
+  - ankündigungen
+  - servervorschläge
+  - musik
+- 1 neuer Sprachkanal hinzugefügt 
+  - Musik
+# Version 1.0.1 - Build 2 - 6. Juni 2019
+- 4 neue Sprachkanäle hinzugefügt
+  - Talk 1 bis 4
+# Version 1.0 - Build 1 - 3. Juni 2019
+- Server erstellt
+- 4 Bots hinzugefügt
+  - Disboard
+  - Mee6
+  - StatBot
+  - YAGPDB
+- 4 Rollen erstellt
+  - Ich brauche Hilfe
+  - Ich hab Depressionen
+  - Ich helfe anderen
+  - Mir gehts gut
