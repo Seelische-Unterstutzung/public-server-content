@@ -1,8 +1,8 @@
 # Vorstellungen
 
-Im Channel #👋・vorstellungen kannst du dich Vorstellen.
+Im Channel #👋・vorstellungen kannst du dich Vorstellen, musst dies aber nicht. Wenn du dich aber vorstellst, muss diese Vorstellung aus mindestens 5 Informationen bestehen. (Beispiel: Name, Alter, Wohnort, Beruf, Hobbys)
 
-**__Vorstellungsvorlage__**
+## Vorstellungsvorlage
 Wir haben eine Vorstellungsvorlage, die man verwenden KANN, aber NICHT MUSS:
 ```Name:
 Nickname:
@@ -18,9 +18,10 @@ Lieblingsfarbe:
 Lieblingsgame:
 Lieblingswort:
 Triggerfaktoren:
-Was man über dich sonst so wissen sollte:```
+Was man über dich sonst so wissen sollte:
+```
 
-**__Wieso kann ich keine anderen Vorstellungen sehen?__**
+## Wieso kann ich keine anderen Vorstellungen sehen?
 Um die Sicherheit der Daten der User zu wahren, haben wir uns dazu entschlossen, dass man andere Vorstellungen erst sehen kann, wenn man sich selbst Vorgestellt hat.
 
 Wenn du dich erfolgreich Vorgestellt hast, bekommst du von einem __Teamler__ die Rolle @Vorgestellt und kannst den Nachrichtenverlauf des Channels sehen.
