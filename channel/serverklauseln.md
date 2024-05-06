@@ -47,7 +47,7 @@ Willkommen auf dem Server Seelische Unterstützung. Um diesen Server zu nutzen m
 - **Abs. 7** - Der Problem-Chat soll eher für kleinere Themen genutzt werden. Bei größeren Themen soll das Problem-Forum benutzt werden.
 - **Abs. 8** - Es ist nicht gestattet, mehrere Threads zum selben Thema zu eröffnen. Man solle wenn möglich einen vorhandenen Thread verwenden. Das #📚・problem-forum bildet hier eine Ausnahme.
 - **Abs 9** - In einem eigen erstellten VC hat Grundsätzlich der User die Themengewalt, welcher diesen erstellt hat.
-- **Abs. 10** - Alle Themen, die in der Triggerliste (siehe Anlage 2) aufgeführt sind, müssen in einen Spoiler verpackt werden (wie das geht, siehe Anlage 1). Es ist besser, einmal zu viel zu spoilern als zu wenig. Eine Ausnahme bildet der Triggerchat.
+- **Abs. 10** - Alle Themen, die in der Triggerliste (siehe Anlage 2) aufgeführt sind, müssen in einen Spoiler verpackt werden (wie das geht, siehe Anlage 1). Bei der Erstellung eines Posts in ⁠📚・problem-forum reicht ein "TW" (für Triggerwarnung) in der Überschrift. Es ist besser, einmal zu viel zu spoilern als zu wenig. Eine Ausnahme bildet der ⁠💥・trigger Chat.
 - **Abs. 11** - Spoiler sollen nicht übermäßig zum Spaß genutzt werden. Heißt, wenn es keinen Trigger gibt, sondern man dies einfach so macht. Spoiler sollen User mit Triggern schützen und dadurch soll diese Funktion primär sinnvoll genutzt werden.
 - **Abs. 12** - Trigger in einem VC müssen angesagt werden. Für Triggerthemen (dazu gehören auch Schwarzer Humor u. ä.) soll ein eigener gekennzeichneter VC verwendet werden.
 - **Abs. 13** - Ständiges Suchen nach Aufmerksamkeit, einschließlich wiederholtem Ansprechen derselben Probleme oder abwertender Selbstäußerungen, ist untersagt. Dies zählt auch für Usernamen.
@@ -64,4 +64,4 @@ Willkommen auf dem Server Seelische Unterstützung. Um diesen Server zu nutzen m
 - **Abs. 4** - Jeder User (ab der Rolle @CyberFamily Reisende/r) hat die Möglichkeit seinen Nicknamen auf diesem Server frei zu ändern, allerdings wird davon abgesehen unangemessene Nicknames zu wählen. Sollte ein (Account) Nickname unangemessen sein, wird der Nick zu „Bitte angemessenen Nick wählen“ geändert. Ob der Nick unangemessen ist, liegt im Ermessen des Serverteams.
 - **Abs. 5** - Für Profilbilder gelten die Regelungen des Abs. 4.
 
-[Letzte Änderung: 10. Februar 2024](https://github.com/Seelische-Unterstutzung/public-server-content/commits/main/channel/serverklauseln.md)
+[Letzte Änderung: 6. Mai 2024](https://github.com/Seelische-Unterstutzung/public-server-content/commits/main/channel/serverklauseln.md)
