@@ -1,3 +1,31 @@
+# Version 15.3 - Build 172 - 6. Mai 2024
+- 1 Rolle hinzugefügt
+  - Verwaltung
+- 1 Rolle umbenannt
+  - `Serverleitung` zu `Leitung`
+- 1 Rolle entfernt
+  - Design
+- 2 Foren entfernt
+  - verify-probleme
+  - themen
+- 3 Textkanäle entfernt
+  - diagnostizierte-probleme
+  - tagebuch
+  - zitate
+# Version 15.2.1 - Build 171 - 29. Februar 2024
+- 1 Textkanal entfernt
+  - bot-help
+# Version 15.2 - Build 170 - 28. Februar 2024
+- 1 Bot hinzugefügt
+  - Color-Chan
+- 2 Bots entfernt
+  - SU-Bot 2.0
+  - SU-Musik
+- 1 Textkanal entfernt
+  - musik-bot
+# Version 15.1 - Build 169 - 17. Januar 2024
+- 1 Rolle hinzugefügt
+  - Design
 # Version 15.0 - Build 168 - 13. Dezember 2023
 - 4 Bots entfernt
   - 24/7
@@ -38,7 +66,11 @@
   - roleplay
   - satzgeschichten
   - wortgeschichten
-- 4 Sprachkanäle entfernt _(Technik Support, Mobil (16kbps), Lofi Relax Radio, Q-Dance-Radio)_
+- 4 Sprachkanäle entfernt
+  - Technik Support
+  - Mobil (16kbps)
+  - Lofi Relax Radio
+  - Q-Dance-Radio
 # Version 14.12.2 - Build 167 - 3. November 2023
 - 1 Rolle hinzugefügt
   - Organisation
